@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@metamask/eth-sig-util": "^5.1.0",
+    "axios": "^1.4.0",
+    "ethers": "5.7.0",
+    "magic-sdk": "^17.1.3",
+    "next": "latest",
+    "react": "^18.2.0",
+    "react-dom": "18.2.0",
+    "react-toastify": "^9.1.3"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.6",
+    "typescript": "5.0.4"
+  }
+}
